@@ -1,24 +1,4 @@
-// import axios from "axios";
 
-// export const GetPlaceDetails = async () => {
-//   try {
-//     const response = await axios.get(
-//       "https://places.googleapis.com/v1/places:searchText",
-//       {
-//         headers: {
-//           Authorization: `Bearer AIzaSyDGfDWOQ0vk1Z_4-Wbh0-J3XgzH917ELIQ`,
-//           // Include other headers if necessary
-//         },
-//       }
-//     );
-//     console.log(response.data);
-//   } catch (error) {
-//     console.error(
-//       "Error fetching data:",
-//       error.response ? error.response.data : error.message
-//     );
-//   }
-// };
 
 import axios from "axios";
 const BASE_URL = "https://places.googleapis.com/v1/places:searchText";
