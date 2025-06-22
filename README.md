@@ -16,11 +16,11 @@ This repository contains the code for an **AI-driven Trip Planner**, which gener
 
 ## 📸 Screenshots
 
-| Home Page | Hotel Suggestions | Day-wise Itinerary |
+| Home Page | Travel Preferences | Plan |
 |-----------|-------------------|--------------------|
 | ![](src/assets/img1.png) | ![](src/assets/img2.png) | ![](src/assets/img3.png) |
 
-| Budget Input | Loading Animation | Trip Summary |
+| Hotel Recommendation | Day-wise Itinerary | Trip Summary |
 |--------------|-------------------|--------------|
 | ![](src/assets/img4.png) | ![](src/assets/img5.png) | ![](src/assets/img6.png) |
 
