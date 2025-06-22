@@ -18,13 +18,13 @@ This repository contains the code for an **AI-driven Trip Planner**, which gener
 
 | Home Page | Hotel Suggestions | Day-wise Itinerary |
 |-----------|-------------------|--------------------|
-| ![](assets/img1.png) | ![](assets/img2.png) | ![](assets/img3.png) |
+| ![](src/assets/img1.png) | ![](src/assets/img2.png) | ![](src/assets/img3.png) |
 
 | Budget Input | Loading Animation | Trip Summary |
 |--------------|-------------------|--------------|
-| ![](assets/img4.png) | ![](assets/img5.png) | ![](assets/img6.png) |
+| ![](src/assets/img4.png) | ![](src/assets/img5.png) | ![](src/assets/img6.png) |
 
-> 📁 Make sure all images are placed in the `/assets` folder relative to your `README.md`.
+>
 
 ---
 
