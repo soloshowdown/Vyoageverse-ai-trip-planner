@@ -9,14 +9,54 @@ This repository contains the code for an AI-driven Trip Advisor, which generates
 - **Hotel Recommendations**: Get hotel suggestions that fit your itinerary.
 - **Dynamic Itineraries**: Itineraries are created based on user preferences and budgets.
 
-## Screenshots
+# Vyoageverse AI Trip Planner
 
-![Screenshot 1](https://github.com/user-attachments/assets/1300f4a4-1a9e-409c-ba8a-46bca25721c0)
-![Screenshot 2](https://github.com/user-attachments/assets/136b31f3-f3c9-4b31-a2de-3737d5109561)
-![Screenshot 3](https://github.com/user-attachments/assets/8be09761-a8d1-4a0f-a365-425ddb4e688e)
-![Screenshot 4](https://github.com/user-attachments/assets/b7dd2f12-291d-4645-9533-7cc5298ef6fe)
-![Screenshot 5](https://github.com/user-attachments/assets/bd0cfefd-8aad-4b66-a516-58a899f86d3a)
-![Screenshot 6](https://github.com/user-attachments/assets/c859c344-80fb-4222-8b06-f9225275189b)
+This repository contains the code for an **AI-driven Trip Planner**, which generates customized trips with hotel recommendations and itineraries based on user budgets and travel preferences.
+
+> ⚠️ **Note**: Due to the usage of Google Maps Places, Photos, and Geolocation APIs (which have cost limits), this project is **not deployed** to avoid exceeding a $200/month quota.
+
+---
+
+## ✨ Features
+
+- 🌍 **Personalized Trips** – Based on your budget and travel preferences.
+- 🏨 **Hotel Recommendations** – Get matching hotel suggestions.
+- 📅 **Dynamic Itineraries** – Created automatically as per your trip details.
+- 🔒 **Auth Integration** – Sign in securely with Google Auth.
+- 🔗 **Real-time Backend** – Powered by Firebase.
+
+---
+
+## 📸 Screenshots
+
+Here are some UI previews of the application:
+
+| Home Page       | Hotel Recommendations | Itinerary Example |
+|-----------------|------------------------|--------------------|
+| ![Home](assets/img1.png) | ![Hotels](assets/img2.png) | ![Itinerary](assets/img3.png) |
+
+| Budget Input    | Loading Animation      | Final Result       |
+|-----------------|------------------------|--------------------|
+| ![Budget](assets/img4.png) | ![Loading](assets/img5.png) | ![Result](assets/img6.png) |
+
+> Make sure all the images (`img1.png` to `img6.png`) are placed in an `assets/` folder inside your project directory.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/soloshowdown/Vyoageverse-ai-trip-planner.git
+cd Vyoageverse-ai-trip-planner
+
+## Screenshots
+ !
+
+
 
 ## Getting Started
 
@@ -24,8 +64,8 @@ To run this project on your machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ai-trip-advisor.git
-    cd ai-trip-advisor
+    git clone https://github.com/soloshowdown/Vyoageverse-ai-trip-planner.git
+    
     ```
 
 2. **Create a `.env.local` file in the root folder**:
